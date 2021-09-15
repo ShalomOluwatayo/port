@@ -14,7 +14,7 @@ header .navbar{
     letter-spacing: 2px;
 }
 .navbar .navbar-brand:hover{
-    color: pink;
+    color: chocolate;
 }
 .navbar-nav .nav-link{
     color: white;
@@ -26,9 +26,6 @@ header .navbar{
 .active{
     color: white;
 }
-
-.btn-pink{
-    background: pink;
 
 }
 /* Services */
@@ -48,7 +45,7 @@ header .navbar{
     color: chocolate !important;
 }
 
-
-.services .hover:hover{
-    color: chocolate;
+.col-md-3 .hover:hover{
+    color: chocolate !important;
+    text-decoration-line: none;
 }
