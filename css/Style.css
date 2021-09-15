@@ -33,6 +33,7 @@ header .navbar{
 }
 /* Services */
 .card shadow p{
+    color: black;
     font-size: 18px;
     font-weight: 700;
 }
@@ -46,13 +47,7 @@ header .navbar{
 .hover:hover{
     color: chocolate !important;
 }
-.col-md-3 a {
-    color: black;
-    text-decoration: none;
-}
-.col-md-3 a p:hover{
-    color: chocolate;
-}
+
 
 .services .hover:hover{
     color: chocolate;
