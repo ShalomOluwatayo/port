@@ -24,7 +24,7 @@ header .navbar{
     color:white;
 }
 .active{
-    color: white;
+    color: chocolate !important;
 }
 
 /* Services */
