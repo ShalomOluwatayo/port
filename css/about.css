@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+header .navbar{
+    background-color: black;
+}
+.navbar .navbar-brand{
+    color: white;
+    text-transform: uppercase;
+    font-weight: 800;
+    letter-spacing: 2px;
+}
+.navbar .navbar-brand:hover{
+    color: chocolate;
+}
+.navbar-nav .nav-link{
+    color: white;
+    text-transform: uppercase;
+}
+.navbar-nav .nav-link:hover{
+    color:white;
+}
+.active{
+    color: white;
+}
+.hover:hover{
+    color: chocolate !important;
+}
+.aboutitemscontainer{
+    background-color: black;
+}
+.aboutitems{
+    color: white;
+}
+.col-md-3 .aboutitems:hover{
+    text-decoration:inherit !important;
+    color: chocolate;
+    transition-duration: 0.7s;
+}
