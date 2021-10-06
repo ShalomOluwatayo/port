@@ -2,7 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    text-decoration: none;
+    text-decoration: none !important;
 }
 
 header .navbar{
@@ -37,7 +37,13 @@ header .navbar{
     color: white;
 }
 .col-md-3 .aboutitems:hover{
-    text-decoration:inherit !important;
     color: chocolate;
     transition-duration: 0.7s;
+    text-decoration: inherit;
+}
+h6{
+    color: white;
+}
+p a{
+    color: white;
 }

@@ -55,3 +55,9 @@ header .navbar{
     transition-duration: 0.7s;
     text-decoration: inherit;
 }
+h6{
+    color: white;
+}
+p a{
+    color: white;
+}

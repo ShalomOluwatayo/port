@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    text-decoration: none !important;
 }
 
 header .navbar{
@@ -50,4 +51,10 @@ header .navbar{
 .col-md-3 .hover:hover{
     color: chocolate !important;
     text-decoration-line: none;
+}
+h6{
+    color: white;
+}
+p a{
+    color: white;
 }
