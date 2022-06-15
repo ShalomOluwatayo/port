@@ -34,12 +34,20 @@ header .navbar{
     font-size: 18px;
     font-weight: 700;
 }
+.services{
+    text-decoration: none;
+    color: black !important;
+}
+.services:hover{
+    color: chocolate;
+}
 /* Testimonial */
 .card shadow p{
     font-size: 18px;
     font-weight: 700;
     color: gold;
 }
+
 .servicecard:hover{
     border-color: whitesmoke !important;
 }
