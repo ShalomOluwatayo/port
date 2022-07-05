@@ -35,11 +35,11 @@ header .navbar{
     font-weight: 700;
 }
 .services{
-    text-decoration: none;
+    text-decoration: none !important;
     color: black !important;
 }
 .services:hover{
-    color: chocolate;
+    color: chocolate !important;
 }
 /* Testimonial */
 .card shadow p{
